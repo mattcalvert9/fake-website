@@ -1,0 +1,7 @@
+.box {
+  width: 200px;
+  height: 200px;
+  background: dodgerblue;
+  border: 10px dashed royalblue;
+  border-radius: 100%;
+}

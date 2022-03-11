@@ -1,0 +1,18 @@
+body {
+  margin: 10px;
+}
+h1 {
+  color: magenta;
+}
+
+.highlight {
+  color: yellowgreen;
+}
+
+#products {
+  color: green;
+}
+
+.featured #products {
+  color: dodgerblue;
+}
